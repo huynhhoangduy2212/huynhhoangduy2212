@@ -1,5 +1,5 @@
 - 👋 Hi, I’m huynh hoang duy, 34 years old 
-- 👀 I’m interested in food science and technology and now I'm in 1st semester of a PhD program in Taiwan
+- 👀 I’m interested in Food Science and Technology and now I'm in 1st semester of a PhD program in Taiwan
 - 🌱 I’m currently learning optimization with ANN and GA (genetic algorithm)
 - 💞️ I’m looking to collaborate on ANN-GA
 - 📫 How to reach me 0944953366 (zalo)
